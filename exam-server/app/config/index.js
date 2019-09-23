@@ -1,0 +1,1 @@
+module.exports.whiteList = ["/","/login", "/main", "/main/addQuestions","/main/questionsType","/main/watchQuestions","/main/detai","/main/addUser","/main/showUser","/main/addExam","/main/exam","/main/grade","/main/room","/main/student","/main/paper","/main/addHeadImg"]
